@@ -103,6 +103,5 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jhanishant658&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
-⭐ Agar koi project helpful lage to star dena! ⭐
 
 </div>
