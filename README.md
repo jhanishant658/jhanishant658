@@ -1,17 +1,6 @@
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api](https://media.licdn.com/dms/image/v2/D4E16AQE_WnIcSmk_NQ/profile-displaybackgroundimage-shrink_350_1400/B4EZgyTlxgGUAc-/0/1753190654508?e=1779926400&v=beta&t=FnCXdQ3w93dIIspQq1Q1dSV8eWn5ZLPntPREFzzz1iY)?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Nishant%20Jha&fontSize=65&fontColor=00f5ff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=60&descColor=a78bfa&animation=fadeIn&stroke=00f5ff&strokeWidth=2" width="100%"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Nishant+Jha+👋;Full+Stack+Developer+%7C+Java+%26+Spring+Boot;Building+Scalable+Microservices+🚀;LeetCode+400%2B+Problems+Solved+🔥;Open+to+Opportunities+💼)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-jha-0b96a629b)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/jhanishant18)
-[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/jhanishant658)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:njha5901@gmail.com)
+<img src="https://raw.githubusercontent.com/jhanishant658/jhanishant658/main/header.svg" width="100%" alt="Nishant Jha — Full Stack Developer"/>
 
 </div>
 
@@ -82,9 +71,6 @@ Email     : njha5901@gmail.com
 ---
 
 ## 📊 GitHub Stats
-
-
-
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jhanishant658&hide_border=true&background=0f0c29&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff&sideLabels=e2e8f0&dates=8892b0&currStreakNum=ffffff&sideNums=e2e8f0)](https://github.com/jhanishant658)
@@ -129,5 +115,3 @@ Email     : njha5901@gmail.com
 ![Profile Views](https://komarev.com/ghpvc/?username=jhanishant658&color=00f5ff&style=for-the-badge&label=Profile+Views)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" width="100%"/>
